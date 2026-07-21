@@ -54,8 +54,8 @@ variable "each_vm" {
 Ответ
 
 ```
-
-
+Код по ссылке 
+https://github.com/roomantix/hw_03/tree/main/src
 
 ```
 
