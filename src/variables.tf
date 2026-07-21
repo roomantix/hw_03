@@ -36,3 +36,7 @@ variable "service_account_key_file" {
   type        = string
 }
 
+variable "vms_metadata" {
+  description = "Common metadata for all VMs"
+  type        = map(string)
+}
